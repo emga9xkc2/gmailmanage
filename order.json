@@ -1,0 +1,33 @@
+{
+  "id": 1001,
+  "customer": {
+    "name": "Nguyen Van A",
+    "email": "a@example.com",
+    "address": {
+      "city": "Ha Noi",
+      "district": "Hoan Kiem",
+      "street": "Trang Tien"
+    }
+  },
+  "items": [
+    {
+      "productId": 1,
+      "name": "Laptop",
+      "price": 25000000,
+      "tags": ["electronics", "computer"]
+    },
+    {
+      "productId": 2,
+      "name": "Mouse",
+      "price": 500000,
+      "tags": ["electronics", "accessory"]
+    }
+  ],
+  "shipping": {
+    "method": "Express",
+    "tracking": {
+      "code": "VN123456",
+      "status": "In Transit"
+    }
+  }
+}
