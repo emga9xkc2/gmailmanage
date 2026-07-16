@@ -1,0 +1,8 @@
+- Tool chỉ sử dụng trên win2016, win2019, win10, win11
+- Để thêm email. ấn Add mail. chọn định dạng cần thêm
+- Để thêm proxy. ấn Proxy
+- Chọn chức năng sử dụng. Ấn Settings
+- Chọn số chrome muốn chạy, Sửa ở ô Thread
+- Để chạy => Ấn Load mail => Chọn các email => Ấn Start
+- Để xuất => Ấn Load mail => Chọn các email => Chuột phải ở bảng mail => Ấn Export
+- Để xóa => Ấn Load mail => Chọn các email => Chuột phải ở bảng mail => Ấn Delete

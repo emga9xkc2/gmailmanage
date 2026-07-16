@@ -1,0 +1,16 @@
+shbu,72
+atlanta,160
+boston,36
+rlotte,40
+chicago,95
+cincinnati,40
+dalla,87
+denver,24
+houston,54
+vega,46
+angele,52
+miami,35
+leans,54
+new y,96
+phoenix,35
+seattle,12
